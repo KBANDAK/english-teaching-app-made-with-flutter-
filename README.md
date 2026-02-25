@@ -1,4 +1,4 @@
-# Advanced Language Learning & Assessment Platform
+# AI Advanced Language Learning & Assessment Platform made with flutter 
 
 ## 🌐 Overview
 This repository contains the codebase for a comprehensive language learning and testing platform built with Flutter. The application provides users with structured assessment simulations, interactive practice environments, and real-time AI-driven feedback to accelerate their language acquisition journey.
