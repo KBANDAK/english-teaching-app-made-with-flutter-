@@ -1,0 +1,9 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+# Protect API Keys
+lib/core/config/api_config.dart
